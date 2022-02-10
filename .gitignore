@@ -8,3 +8,9 @@ run.sh
 station.log
 station.prc
 v107test.prc
+beammap_2l.png
+beammap_8u.fits
+beammap_8u.png
+header.log
+image.fits
+table.fits
