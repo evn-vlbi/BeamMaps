@@ -4,7 +4,11 @@ log=beammap
 " take 8 MHz at 21cm, because of RFI
 astro8
 !+30s
-"caltsys
+" Some additional information for the FITS header
+" Which source and frequency is used
+source
+lo
+bread
 sy=go holog &
 enddef
 define  hologp       00000000000x
