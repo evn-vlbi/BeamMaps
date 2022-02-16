@@ -44,7 +44,7 @@ Settable parameters:
 	          seconds allowed, default 120.
 ```
 
-For a more detailed explanation with comments and examples type `help=holog` in the FS.
+For a more detailed explanation with comments and examples type `help=holog` in the FS or the holog_help.txt above.
 
 *recal* and *wait* are set to default, the *proc* is called holog. In the example.prc file the *hologi* procedure sets the corresponding settings for the DBBC2 VLBI backend and provides the channel selection for the TPICD measurements in the *hologp* procedure. The log-file is set to beammap.log
 
