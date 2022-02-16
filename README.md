@@ -70,7 +70,7 @@ The python script should run with both python2 and 3. It requires numpy, astropy
 
 ## Possible improvements
 
-I'm sure there are better ways to perform some of the processing in my python script. The FITS file might need some more auxilary information to be useful.
+I'm sure there are better ways to perform some of the processing in the python script. The FITS file might need some more auxilary information to be useful.
 
 Ed Himwich suggested
 
